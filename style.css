@@ -65,5 +65,9 @@ nav a {
 }
 
 #social{
-    display: inline;
+    display: -moz-grid-line;
+    margin: auto;
+    text-decoration: none;
+    position: relative;bottom:auto;left: 200px;
+    padding: 12px;
 }
