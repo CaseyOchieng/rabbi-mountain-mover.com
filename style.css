@@ -21,7 +21,7 @@ a {
 body{
      background-image: url(./image/nav-back.jpeg);
      background-size: cover;
-     background-repeat: no-repeat;
+     background-repeat:none;
      
 }
 
