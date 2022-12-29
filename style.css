@@ -1,33 +1,64 @@
-#logo{
-    display: fixed;
-    /* background-color: aliceblue; */
+body {
+    background-color: black;
+    background-image: url(images/4357971.jpg)
 }
 
-nav{
-    background-color: rgba(255, 255, 255, 0.623);
-    border-radius: 8px;
-    display: flex;
-    
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 190px;
+    width: 190x;
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+
+}
+
+main {
+    height: 480px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+footer {
+    background-color: rgba(255, 166, 0, 0.486);
+    height: 40px;
+    width: 1024px;
+    border-radius: 4px;
+}
+
+h1 {
+    font-size: 84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
 }
 
 a {
-  text-decoration: none;
-  color: black;
-  padding: 4px;
-  font-size: larger;
-  margin: 4px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: bold;
+    font-size: larger;
 }
 
-
-body{
-     background-image: url(./image/nav-back.jpeg);
-     background-size: cover;
-     background-repeat:none;
-     
-}
-
-/* search-bar position */
-.search-bar{
-    position: relative;
-    left: 600px;
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
 }
