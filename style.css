@@ -1,0 +1,32 @@
+#logo{
+    display: fixed;
+    /* background-color: aliceblue; */
+}
+
+nav{
+    background-color: rgba(255, 255, 255, 0.623);
+    border-radius: 8px;
+    
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  padding: 4px;
+  font-size: larger;
+  margin: 13px;
+}
+
+
+body{
+     background-image: url(./image/nav-back.jpeg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     
+}
+
+/* search-bar position */
+.search-bar{
+    position: relative;
+    left: 600px;
+}
