@@ -47,7 +47,7 @@ h1 {
 p {
     font-size: 17px;
     color: white;
-    font-family: sans-serif;
+    font-family: 'Montserrat', sans-serif;
     position: relative; bottom: 100px;
 
 }
@@ -55,16 +55,10 @@ p {
 a {
     text-decoration: none;
     color: white;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-style: bold;
     font-size: larger;
 }
-
-a :hover{
-
-
-}
-
 
 
 nav a {
