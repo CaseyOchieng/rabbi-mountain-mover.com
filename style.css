@@ -40,7 +40,9 @@ h1 {
     font-size: 84px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    position: relative;bottom: 110px;
 }
+
 
 p {
     font-size: 18px;
